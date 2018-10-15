@@ -1,5 +1,5 @@
 var quotes = [
-      'I claim that a new regime of technologies for holding and shaping past experience has been developed through a process I call databasing the world…', 'Build a man a fire, and he will be warm for a day. Set a man on fire, and he will be warm for the rest of his life.', 'East is East, and West is San Francisco, according to Californians. Californians are a race of people; they are not merely inhabitants of a state.', 'So we beat on, boats against the current, borne back ceaselessly into the past.'
+      'Opsoclonus-Myoclonus Syndrome: when your body attacks your brain', 'Scleroderma: when your skin and organs slowly harden and you begin to resemble a human statue', 'Leprosy: your hands and feet go numb and eventually fall off', 'Akinetic Mutism: when you spend the rest of your days unspeaking and wide awake, but unable to move', 'Fibrodysplasia Ossificans Progressiva: when your muscles turn to bone', 'Progeria: also known as Werner Syndrom / when you look 30-40 years older than you actually are','Rheumatic Chorea: when you lose control of your own body movements'
       ]
 
 function newQuote() {
