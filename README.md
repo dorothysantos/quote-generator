@@ -2,4 +2,4 @@ Dorothy's edit for Assignment #2 titled <a href="https://codepen.io/deedottiedot
 
 Remixed from a <a href="https://codepen.io/sarahmfrost/pen/MPejdW">pen</a> by <a href="https://codepen.io/sarahmfrost/">sarahmfrost</a> on CodePen.
 
-This pen was created for UCSC DANM 220 - Introduction to Programming for Artists.
+This assignment was created for UCSC DANM 220 - Introduction to Programming for Artists.
